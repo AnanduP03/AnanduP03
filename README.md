@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 I'm a Web Developer<br>🔭 I’m currently working on some personal projects<br>🌱 I’m currently learning Spring Boot Framework<br>
 
+[![](https://visitcount.itsvg.in/api?id=AnanduP03&icon=2&color=9)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gapd0122) 
@@ -15,9 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnanduP03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnanduP03&icon=2&color=9)](https://visitcount.itsvg.in)
+
 
